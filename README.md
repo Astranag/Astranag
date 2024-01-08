@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Astranag (Stivin J.M.)
-- 👀 I’m interested in latest tech and creativity
+- 👀 I’m interested in the latest tech and creative projects
 - 🌱 I’m currently learning new programs by diving into web development
-- 💞️ I’m looking to collaborate on Innovative and crative projects
+- 💞️ I’m looking to collaborate on Innovative and creative projects
 - 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/stivin-james-mavelil-07a9b1161/)
 
 
