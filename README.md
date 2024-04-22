@@ -17,9 +17,11 @@
 - 💞️ I’m looking to collaborate on Innovative and creative projects
 - 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/stivin-james-mavelil-07a9b1161/)
 
+  # 📊 Github Stats
+
 [![Stivin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astranag)](https://github.com/Astranag/github-readme-stats)
 
-
+#  💻 Tech Stack
 
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
